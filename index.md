@@ -34,7 +34,7 @@ curl -d delete-image=1 http://localhost:5000/gallery
 This simple one liner deleted my image from my website without having a login necessary as admin or even non-admin.
 POST requests claim to hide data, and they do, but in the most naive sense.
 
-Moral of the story: If you have a POST request, make sure you validate it with permissions by making sure if its sensitive data being manipilated then only certain people can do so.
+Moral of the story: If you have a POST request, make sure you validate it with permissions by making sure that if its sensitive data being manipilated, then only certain people can do so.
 e.g.
 
 ```markdown
