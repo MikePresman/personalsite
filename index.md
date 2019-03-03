@@ -1,8 +1,6 @@
 ## The unintentional maliciousness of POST requests
 ### P.S. This is my first submission on my site
 
-![alt text](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj__9-d5-XgAhVM5IMKHUaWC_UQjRx6BAgBEAU&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fscooby-doo-scared-eomy8S00ljwjK&psig=AOvVaw3EIfqQlRPT6qF4uTIFipod&ust=1551696816368401)
-
 While working on a client's website throughout this past month I have had the pleasure of working with Python's light web framework Flask. To be honest this is my first time really diving deep into the wonderful world of web development, and so far im enjoying it - except for the potential for falling into the depths of 8548434995 vulnerabilities and security threats that exist.
 
 A big part of the website that I'm designing allows admin users to add, delete, and modify content such as gallery images, items in the Shop that are for sale or even the authorization rights of other users in the database.
